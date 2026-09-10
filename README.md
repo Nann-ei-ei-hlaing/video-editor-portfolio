@@ -55,6 +55,8 @@ portfolio through personal projects and creative experiments.
 <p align="center">
 
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
+<img src="https://img.shields.io/badge/Inshot-000000?style=for-the-badge&logo=capcut&logoColor=white">
+
 
 </p>
 
