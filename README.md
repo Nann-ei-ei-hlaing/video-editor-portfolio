@@ -4,10 +4,16 @@
 
 ### Video Editor • Content Creator • Gaming & Esports
 
-<p>
-  <a href="https://yourportfolio.com">🌐 Portfolio</a> •
-  <a href="https://instagram.com/minnienoaim">📷 Instagram</a> •
-</p>
+Aspiring video editor passionate about creating engaging gaming,
+knowledge-sharing and social media content.
+
+<br>
+
+[🌐 Portfolio](https://nann-ei-ei-hlaing.github.io/video-editor-portfolio/)
+
+[📷 Instagram](https://instagram.com/minnienoaim)
+
+[📧 Email](mailto:naneieihlaing25@gmail.com)
 
 </div>
 
@@ -15,106 +21,84 @@
 
 ## 👋 About Me
 
-Hi! I'm Nann Ei Ei Hlaing, an aspiring video editor and content creator
-passionate about turning raw footage into engaging and creative videos.
+Hi! I'm **Nann Ei Ei Hlaing**, an aspiring video editor and content
+creator.
 
-I enjoy creating **gaming edits, esports montages, Instagram Reels**.
+I enjoy turning raw footage into engaging and creative content using
+creative cuts, strong pacing, sound design, captions, transitions
+and visual effects.
 
-I'm continuously learning new editing techniques and building my
-portfolio through personal projects and creative experiments.
+I'm interested in:
+
+- 🎮 Gaming & Esports
+- 📚 Knowledge Sharing
+- 📱 Instagram Reels
+- ▶️ YouTube Shorts
+- 🎥 YouTube Videos
+
+I'm continuously learning, experimenting and improving my editing
+skills through every project I create.
 
 ---
 
-## 🎯 What I Do
+## 🎬 My Work
 
-| 🎬 Video Editing | 🎮 Gaming Content |
-|---|---|
-| 📱 Reels & Shorts | 🏆 Esports Montages |
-| ▶️ YouTube Videos | 🎵 Beat Sync Editing |
-| 🔊 Sound Design | ✨ Visual Effects |
-| 💬 Captions & Subtitles | 🎨 Color Grading |
+### 🎮 Gaming Edit
+
+Gaming video featuring creative cuts, music synchronization,
+sound effects and visual effects.
+
+[▶️ Watch Gaming Edit](https://drive.google.com/file/d/13EJcluSAqtNTTReqUHbv1JQ17pPU5Sam/view?usp=sharing)
+
+---
+
+### 📚 Knowledge Sharing Video 01
+
+Educational content edited with clean cuts, pacing, captions
+and supporting visuals.
+
+[▶️ Watch Video](https://drive.google.com/file/d/1_3N-21uFKfVNOgvtQ0VtklB-TL9OYUVy/view?usp=sharing)
+
+---
+
+### 📚 Knowledge Sharing Video 02
+
+Knowledge-sharing content focused on clear storytelling,
+pacing and viewer engagement.
+
+[▶️ Watch Video](https://drive.google.com/file/d/1msFkjFpwwRwQaH7zBz3ReK9q_yNeLsXB/view?usp=sharing)
 
 ---
 
 ## 🛠️ Skills
 
 - ✂️ Video Editing
-- 🎨 Color Correction & Color Grading
 - 🔊 Sound Design
-- 🎵 Music & Beat Synchronization
+- 🎵 Music Synchronization
 - 💬 Captions & Subtitles
+- 🎨 Color Correction & Grading
 - ⚡ Transitions & Visual Effects
-- 🎮 Gaming & Esports Editing
-- 📱 Short-Form Content
+- 🎮 Gaming Editing
+- 📱 Short-Form Editing
 - ▶️ YouTube Editing
 
 ---
 
-## 💻 Editing Software
+## 💻 Software
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
-<img src="https://img.shields.io/badge/Inshot-000000?style=for-the-badge&logo=capcut&logoColor=white">
-
-
-</p>
+- Adobe Premiere Pro
+- After Effects
+- DaVinci Resolve
+- CapCut
+- Photoshop
 
 ---
 
-## 🎬 Featured Projects
+## 📫 Contact
 
-### 🎮 Valorant Gaming Montage
+**Email:** naneieihlaing25@gmail.com
 
-Fast-paced gaming montage featuring:
-
-- Beat-synced cuts
-- Sound effects
-- Transitions
-- Visual effects
-- Cinematic moments
-
-🔗 **[View Project](#)**
-
----
-
-### 📱 Instagram Reel
-
-Short-form video focused on:
-
-- Viewer retention
-- Dynamic captions
-- Fast cuts
-- Music synchronization
-- Creative transitions
-
-🔗 **[View Project](#)**
-
----
-
-## 📂 Portfolio
-
-<div align="center">
-
-### 🎥 Check out my complete portfolio
-
-<a href="https://yourportfolio.com">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-FF4655?style=for-the-badge">
-
-</a>
-
-</div>
-
----
-
-## 📫 Contact Me
-
-If you'd like to work together, collaborate, or discuss a project:
-
-📧 **Email:** naneieihlaing25@gmail.com
-
-📷 **Instagram:** [@minnienoaim](https://instagram.com/minnienoaim)
+**Instagram:** [@minnienoaim](https://instagram.com/minnienoaim)
 
 ---
 
