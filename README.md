@@ -1,13 +1,12 @@
 <div align="center">
 
-# 🎬 YOUR NAME
+# 🎬 Nann Ei Ei Hlaing
 
 ### Video Editor • Content Creator • Gaming & Esports
 
 <p>
   <a href="https://yourportfolio.com">🌐 Portfolio</a> •
-  <a href="https://instagram.com/yourusername">📷 Instagram</a> •
-  <a href="https://youtube.com/@yourusername">▶️ YouTube</a>
+  <a href="https://instagram.com/minnienoaim">📷 Instagram</a> •
 </p>
 
 </div>
@@ -16,11 +15,10 @@
 
 ## 👋 About Me
 
-Hi! I'm **Your Name**, an aspiring video editor and content creator
+Hi! I'm Nann Ei Ei Hlaing, an aspiring video editor and content creator
 passionate about turning raw footage into engaging and creative videos.
 
-I enjoy creating **gaming edits, esports montages, Instagram Reels,
-YouTube Shorts, and YouTube videos**.
+I enjoy creating **gaming edits, esports montages, Instagram Reels**.
 
 I'm continuously learning new editing techniques and building my
 portfolio through personal projects and creative experiments.
@@ -56,15 +54,7 @@ portfolio through personal projects and creative experiments.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF">
-
-<img src="https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF">
-
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white">
-
 <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white">
-
-<img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
 
 </p>
 
@@ -100,20 +90,6 @@ Short-form video focused on:
 
 ---
 
-### ▶️ YouTube Video
-
-Long-form content featuring:
-
-- Storytelling
-- Clean editing
-- Background music
-- Sound design
-- Motion graphics
-
-🔗 **[View Project](#)**
-
----
-
 ## 📂 Portfolio
 
 <div align="center">
@@ -134,11 +110,9 @@ Long-form content featuring:
 
 If you'd like to work together, collaborate, or discuss a project:
 
-📧 **Email:** your@email.com
+📧 **Email:** naneieihlaing25@gmail.com
 
-📷 **Instagram:** [@yourusername](https://instagram.com/yourusername)
-
-▶️ **YouTube:** [Your Channel](https://youtube.com/)
+📷 **Instagram:** [@minnienoaim](https://instagram.com/minnienoaim)
 
 ---
 
